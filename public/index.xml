@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Adventure &#43; Works</title>
+    <link>/</link>
+    <description>Recent content on Adventure &#43; Works</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 21 Jul 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Company Overview</title>
+      <link>/post/intro/</link>
+      <pubDate>Fri, 21 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/intro/</guid>
+      <description>Introduction 1 Adventure Works Cycles, the fictitious company on which the AdventureWorks sample databases are based, is a large, multinational manufacturing company. The company manufactures and sells metal and composite bicycles to North American, European and Asian commercial markets. While its base operation is located in Bothell, Washington with 290 employees, several regional sales teams are located throughout their market base.
+In 2000, Adventure Works Cycles bought a small manufacturing plant, Importadores Neptuno, located in Mexico.</description>
+    </item>
+    
+    <item>
+      <title>Notes</title>
+      <link>/post/notes/</link>
+      <pubDate>Mon, 17 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/notes/</guid>
+      <description>Readme
+This file describes the list of files in the ‘aw2012’ folder
+ Makes a set of documents and keep cross referencing using standard refnames determined by file names.
+ General Goals
+ First understand the business from the databases AW,DW,CU
+ What are the differences between the 3 DBs?
+ What can we do with cubes that we cannot do with DW database????
+  General business analysis &amp;amp; visualization of existing data</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>Adventure + Works
+Using non-Microsoft tools to explore, analyse and implement business intellgence solutions on MS Adventure Works Cycles company database.
+website template hbxwww</description>
+    </item>
+    
+  </channel>
+</rss>
